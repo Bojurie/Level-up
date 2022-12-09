@@ -1,0 +1,31 @@
+
+
+.aboutContainer h1 {
+  padding: 0 0 20px 0;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.aboutContainer {
+  padding: 40px 160px;
+}
+
+.aboutParagraph p {
+  letter-spacing: 1px;
+  line-height: 30px;
+  font-weight: 500;
+}
+
+.aboutParagraph img {
+ width: 350px;
+  border-radius: 5%;
+  float: left;
+  margin: 0 15px 0 0;
+}
+
+/* .aboutContent {
+  display: flex;
+  width: 100%;
+} */
+

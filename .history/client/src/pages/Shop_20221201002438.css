@@ -1,0 +1,9 @@
+.shop-content h1 {
+  text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+    padding: 50px 0;
+}
+.shop-wrapper{
+  padding: 40px 160px;
+}

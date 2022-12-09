@@ -1,0 +1,29 @@
+ .d-block {
+   width: 100%;
+   object-fit: cover; 
+   object-position: 50% 50%; 
+   background-size: contain;
+   background-repeat: no-repeat;
+ }
+
+
+ img {
+
+   max-width: 100%;
+   max-height: 100%;
+   object-fit: cover;
+   background-repeat: no-repeat;
+ }
+
+ .carousel-item img {
+   width: 1000px;
+   height: 500px;
+ }
+
+ .carousel-caption {
+   top: 50%;
+ }
+
+ .carousel {
+   object-fit: contain;
+ }

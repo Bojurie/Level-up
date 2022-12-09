@@ -1,0 +1,38 @@
+.aboutContainer h1 {
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 2px;
+  padding: 50px 0;
+}
+
+.aboutContainer {
+  padding: 40px 160px;
+}
+
+.aboutParagraph p {
+  letter-spacing: 1px;
+  line-height: 30px;
+  font-weight: 500;
+}
+
+.AboutUs-content {
+  display: flex;
+}
+
+.AboutHistory,
+.AboutGoal,
+.Aboutproduct {
+    margin: 0 10px;
+    background-color: rgb(229, 228, 228);
+}
+
+/* .history-img {
+  width: 340px;
+} */
+
+.history-content {
+  padding: 10px 0;
+}
+.history-content h1{
+  font-size: 19px;
+}

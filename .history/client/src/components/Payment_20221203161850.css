@@ -1,0 +1,10 @@
+.payBtn {
+  border: none;
+  width: 120px;
+  border-radius: 5;
+  padding: 20px;
+  background-color: rgb(107, 103, 103);
+  color: green;
+  cursor: pointer;
+  font-weight: 600;
+}
